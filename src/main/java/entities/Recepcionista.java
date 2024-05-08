@@ -1,4 +1,4 @@
-package hotel_system;
+package entities;
 
 public class Recepcionista extends Thread{
 	
